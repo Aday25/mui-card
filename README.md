@@ -1,14 +1,73 @@
-# React + Vite
+# 💳 mui-card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una práctica divertida y educativa usando **React** y **Material UI (MUI)** para crear una tarjeta de perfil interactiva con estilo profesional.
 
-Currently, two official plugins are available:
+Este mini-proyecto está pensado para familiarizarnos con los componentes de MUI, aprender a personalizarlos, y trabajar en equipo compartiendo código a través de GitHub 🚀
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías usadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# mui-card
-# mui-card
+- [React](https://reactjs.org/)
+- [Material UI](https://mui.com/)
+- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+- Git + GitHub
+
+---
+
+## 📽️ Presentación
+
+Puedes ver la presentación completa de este proyecto aquí:  
+[Presentación Material UI - Ady](https://www.canva.com/tu-enlace-aqui)
+
+## 🎯 Objetivo del proyecto
+
+Crear una tarjeta (`Card`) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (`Snackbar`).  
+Es una forma sencilla y visual de aprender cómo funcionan los componentes básicos de Material UI.
+
+---
+
+## 🧪 ¿Cómo probar el proyecto?
+
+1. **Clona el repositorio**:
+
+```bash
+git clone https://github.com/Aday25/mui-card.git
+Instala las dependencias:
+
+bash
+Copiar código
+npm install
+Inicia el proyecto en local:
+
+bash
+Copiar código
+npm run dev
+(¡O npm start si usas create-react-app en lugar de Vite!)
+
+💻 Estructura del proyecto
+bash
+Copiar código
+src/
+├── components/
+│   └── ProfileCard.jsx
+├── App.jsx
+└── main.jsx
+🧠 Lo que estamos practicando
+Usar componentes de Material UI
+
+Manejo de estado con React (useState)
+
+Uso de ThemeProvider y estilos con sx
+
+Buenas prácticas con Git y GitHub
+
+✨ Vista previa (opcional)
+Puedes añadir aquí una imagen o gif con el diseño final si lo generas más adelante con Copilot o me pides ayuda 😄
+
+🧙‍♀️ Autora
+Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.
+
+📌 Notas
+Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.
+¡Comparte, clona, practica y mejora lo que necesites!

@@ -1,4 +1,4 @@
-# 💳 mui-card
+# 🆔​ mui-card
 
 Una práctica divertida y educativa usando **React** y **Material UI (MUI)** para crear una tarjeta de perfil interactiva con estilo profesional.
 

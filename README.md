@@ -18,7 +18,7 @@ Este mini-proyecto está pensado para familiarizarnos con los componentes de MUI
 ## 📽️ Presentación
 
 Puedes ver la presentación completa de este proyecto aquí:  
-https://nueva-presentacion.my.canva.site/material-ui-react
+[https://nueva-presentacion.my.canva.site/material-ui-react](https://nueva-presentacion.my.canva.site/material-ui-react)
 
 ## 🎯 Objetivo del proyecto
 
@@ -35,24 +35,21 @@ Es una forma sencilla y visual de aprender cómo funcionan los componentes bási
 git clone https://github.com/Aday25/mui-card.git
 Instala las dependencias:
 
-bash
-Copiar código
 npm install
 Inicia el proyecto en local:
 
-bash
-Copiar código
 npm run dev
 (¡O npm start si usas create-react-app en lugar de Vite!)
 
 💻 Estructura del proyecto
-bash
+
 Copiar código
 src/
 ├── components/
 │   └── ProfileCard.jsx
 ├── App.jsx
 └── main.jsx
+
 🧠 Lo que estamos practicando
 Usar componentes de Material UI
 

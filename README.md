@@ -39,7 +39,6 @@ npm install
 Inicia el proyecto en local:
 
 npm run dev
-(¡O npm start si usas create-react-app en lugar de Vite!)
 
 💻 Estructura del proyecto
 

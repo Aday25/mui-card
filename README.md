@@ -20,6 +20,11 @@ Este mini-proyecto está pensado para familiarizarnos con los componentes de MUI
 Puedes ver la presentación completa de este proyecto aquí:  
 [https://nueva-presentacion.my.canva.site/material-ui-react](https://nueva-presentacion.my.canva.site/material-ui-react)
 
+## 📝 PDF para explorar la Web Oficial
+
+Una pequeña guía para explorar la web de MUI, que espero os sirva de ayuda como primera toma de contacto. ¡Seguro que la usaréis mucho!
+https://github.com/Aday25/mui-card/blob/main/public/pasos-web-mui.pdf
+
 ## 🎯 Objetivo del proyecto
 
 Crear una tarjeta (`Card`) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (`Snackbar`).  
@@ -57,9 +62,6 @@ Manejo de estado con React (useState)
 Uso de ThemeProvider y estilos con sx
 
 Buenas prácticas con Git y GitHub
-
-✨ Vista previa (opcional)
-Puedes añadir aquí una imagen o gif con el diseño final si lo generas más adelante con Copilot o me pides ayuda 😄
 
 🧙‍♀️ Autora
 Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.

@@ -18,7 +18,7 @@ Este mini-proyecto está pensado para familiarizarnos con los componentes de MUI
 ## 📽️ Presentación
 
 Puedes ver la presentación completa de este proyecto aquí:  
-[Presentación Material UI - Ady](https://www.canva.com/tu-enlace-aqui)
+[Presentación Material UI - Aday][(https://www.canva.com/tu-enlace-aqui)](https://nueva-presentacion.my.canva.site/material-ui-react)
 
 ## 🎯 Objetivo del proyecto
 

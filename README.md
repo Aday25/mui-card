@@ -15,7 +15,7 @@ Este mini-proyecto está pensado para familiarizarnos con los componentes de MUI
 
 ---
 
-## 📽️ Presentación
+## 📽️ Píldora
 
 Puedes ver la presentación completa de este proyecto aquí:  
 [https://nueva-presentacion.my.canva.site/material-ui-react](https://nueva-presentacion.my.canva.site/material-ui-react)

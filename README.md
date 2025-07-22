@@ -33,7 +33,7 @@ npm run dev
 ```
 
 💻 Estructura del proyecto
-
+txt
 src/
 ├── components/
 │   └── ProfileCard.jsx

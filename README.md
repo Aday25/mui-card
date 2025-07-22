@@ -47,7 +47,7 @@ src/
 
 ---
 
-## 🧙‍♀️ Autora
+## 🧙‍♀️ Autora 
 
 Hecho con ❤️ por **Aday**, futura *fullstack developer* y superheroína del código.
 

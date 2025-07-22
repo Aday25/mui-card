@@ -30,24 +30,22 @@ git clone https://github.com/Aday25/mui-card.git
 cd mui-card
 npm install
 npm run dev
+```
 
 💻 Estructura del proyecto
-txt
-Copiar
-Editar
+
 src/
 ├── components/
 │   └── ProfileCard.jsx
 ├── App.jsx
 └── main.jsx
+
 🧠 Lo que estamos practicando
-🧩 Uso de componentes de Material UI
 
-🔄 Manejo de estado con React (useState)
-
-🎨 Uso de ThemeProvider y estilos con sx
-
-🧪 Buenas prácticas con Git y GitHub
+-🧩 Uso de componentes de Material UI
+-🔄 Manejo de estado con React (useState)
+-🎨 Uso de ThemeProvider y estilos con sx
+-🧪 Buenas prácticas con Git y GitHub
 
 🧙‍♀️ Autora
 Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.

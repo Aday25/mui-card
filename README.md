@@ -33,12 +33,14 @@ npm run dev
 
 
 ## 💻 Estructura del proyecto
-plaintext
+
+<pre>
 src/
 ├── components/
 │   └── ProfileCard.jsx
 ├── App.jsx
 └── main.jsx
+</pre>
 
 ## 🧠 Lo que estamos practicando
 

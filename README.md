@@ -24,7 +24,7 @@ Crear una tarjeta (Card) que muestre una imagen de perfil, nombre, descripción 
 Es una forma sencilla y visual de aprender cómo funcionan los componentes básicos de Material UI.
 
 ## 🧪 ¿Cómo probar el proyecto?  
-```bash
+
 git clone https://github.com/Aday25/mui-card.git
 cd mui-card
 npm install

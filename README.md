@@ -32,25 +32,25 @@ npm install
 npm run dev
 
 
-💻 Estructura del proyecto
-
+## 💻 Estructura del proyecto
+css
 src/
 ├── components/
 │   └── ProfileCard.jsx
 ├── App.jsx
 └── main.jsx
 
-🧠 Lo que estamos practicando
+## 🧠 Lo que estamos practicando
 
 -🧩 Uso de componentes de Material UI
 -🔄 Manejo de estado con React (useState)
 -🎨 Uso de ThemeProvider y estilos con sx
 -🧪 Buenas prácticas con Git y GitHub
 
-🧙‍♀️ Autora
+## 🧙‍♀️ Autora
 Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.
 
-📌 Notas
+## 📌 Notas
 Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.
 ¡Comparte, clona, practica y mejora lo que necesites! 💪
 

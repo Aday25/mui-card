@@ -23,35 +23,37 @@ Una guía paso a paso para clonar correctamente este repositorio y empezar a tra
 Crear una tarjeta (Card) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (Snackbar).  
 Es una forma sencilla y visual de aprender cómo funcionan los componentes básicos de Material UI.
 
-## 🧪 ¿Cómo probar el proyecto?  
+## 🧪 ¿Cómo probar el proyecto?
 
+```bash
 git clone https://github.com/Aday25/mui-card.git
 cd mui-card
 npm install
 npm run dev
 
-## 💻 Estructura del proyecto
-
+💻 Estructura del proyecto
+txt
+Copiar
+Editar
 src/
 ├── components/
-│ └── ProfileCard.jsx
+│   └── ProfileCard.jsx
 ├── App.jsx
 └── main.jsx
+🧠 Lo que estamos practicando
+🧩 Uso de componentes de Material UI
 
-## 🧠 Lo que estamos practicando
+🔄 Manejo de estado con React (useState)
 
-- 🧩 **Uso de componentes de Material UI**
-- 🔄 **Manejo de estado con React** (`useState`)
-- 🎨 **Uso de ThemeProvider** y estilos con `sx`
-- 🧪 **Buenas prácticas con Git y GitHub**
+🎨 Uso de ThemeProvider y estilos con sx
 
-## 🧙‍♀️ Autora
+🧪 Buenas prácticas con Git y GitHub
 
-Hecho con ❤️ por **Aday**, futura *fullstack developer* y superheroína del código.
+🧙‍♀️ Autora
+Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.
 
-## 📌 Notas
-
-Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.  
-¡Comparte, clona, practica y mejora lo que necesites!
+📌 Notas
+Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.
+¡Comparte, clona, practica y mejora lo que necesites! 💪
 
 

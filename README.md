@@ -1,48 +1,36 @@
-🆔​ Píldora Material UI + Práctica mui-card  
+# 🆔 Píldora Material UI + Práctica mui-card  
+Esta Píldora está pensada para familiarizarnos con los componentes de **Material UI (MUI)**, aprender a personalizarlos, y trabajar en equipo compartiendo código a través de GitHub 🚀 Además, incluye una pequeña Guía para conocer la Web Oficial y una práctica divertida y educativa usando React y MUI para crear una tarjeta de perfil interactiva con estilo profesional + el paso a paso en PDF.
 
-Esta Píldora está pensada para familiarizarnos con los componentes de MUI, aprender a personalizarlos, y trabajar en equipo compartiendo código a través de GitHub 🚀
+## 🛠️ Tecnologías usadas  
+- React  
+- Material UI  
+- JavaScript  
+- Git + GitHub  
 
-Además incluye una pequeña Guía para conocer la Web Oficial y una práctica divertida y educativa usando React y Material UI (MUI) para crear una tarjeta de perfil interactiva con estilo profesional + el paso a paso en PDF.
-
-🛠️ Tecnologías usadas  
-React  
-Material UI  
-JavaScript  
-Git + GitHub
-
-📽️ Píldora  
+## 📽️ Píldora  
 Puedes ver la presentación completa de este proyecto aquí:  
-https://nueva-presentacion.my.canva.site/material-ui-react
+[https://nueva-presentacion.my.canva.site/material-ui-react](https://nueva-presentacion.my.canva.site/material-ui-react)  
 
-📝 PDF para explorar la Web Oficial  
+## 📝 PDF para explorar la Web Oficial  
 Una pequeña guía para explorar la web de MUI, que espero os sirva de ayuda como primera toma de contacto. ¡Seguro que la usaréis mucho!  
-https://github.com/Aday25/mui-card/blob/main/public/pasos-web-mui.pdf
+[Ver PDF](https://github.com/Aday25/mui-card/blob/main/public/pasos-web-mui.pdf)  
 
-📝 PDF para clonar el repositorio  
+## 📝 PDF para clonar el repositorio  
 Una guía paso a paso para clonar correctamente este repositorio y empezar a trabajar con el proyecto.  
-[Descargar PDF aquí](https://raw.githubusercontent.com/Aday25/mui-card/main/public/clonar-repositorio-git.pdf)
+[Descargar PDF aquí](https://raw.githubusercontent.com/Aday25/mui-card/main/public/clonar-repositorio-git.pdf)  
 
-🎯 Objetivo del proyecto  
+## 🎯 Objetivo del proyecto  
 Crear una tarjeta (Card) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (Snackbar).  
 Es una forma sencilla y visual de aprender cómo funcionan los componentes básicos de Material UI.
 
-🧪 ¿Cómo probar el proyecto?  
-Clona el repositorio:  
+## 🧪 ¿Cómo probar el proyecto?  
 ```bash
 git clone https://github.com/Aday25/mui-card.git
-
-Entra en la carpeta del proyecto:
-
 cd mui-card
-Instala las dependencias:
-
 npm install
-
-Inicia el proyecto en local:
-
 npm run dev
 
-💻 Estructura del proyecto
+## 💻 Estructura del proyecto
 
 src/
 ├── components/
@@ -50,16 +38,16 @@ src/
 ├── App.jsx
 └── main.jsx
 
-🧠 Lo que estamos practicando
+## 🧠 Lo que estamos practicando:
 
-Usar componentes de Material UI
-Manejo de estado con React (useState)
-Uso de ThemeProvider y estilos con sx
-Buenas prácticas con Git y GitHub
+- 🧩 Uso de componentes de **Material UI**
+- 🔄 Manejo de estado con **React** (`useState`)
+- 🎨 Uso de **ThemeProvider** y estilos con `sx`
+- 🧪 Buenas prácticas con **Git** y **GitHub**
 
-🧙‍♀️ Autora
+##🧙‍♀️ Autora
 Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.
 
-📌 Notas
+##📌 Notas
 Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.
 ¡Comparte, clona, practica y mejora lo que necesites!

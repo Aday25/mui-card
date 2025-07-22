@@ -38,10 +38,6 @@ src/
 ├── App.jsx
 └── main.jsx
 
-markdown
-Copiar
-Editar
-
 ## 🧠 Lo que estamos practicando
 
 - 🧩 **Uso de componentes de Material UI**

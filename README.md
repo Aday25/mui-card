@@ -9,7 +9,7 @@ Esta Píldora está pensada para familiarizarnos con los componentes de **Materi
 
 ## 📽️ Píldora  
 Puedes ver la presentación completa de este proyecto aquí:  
-[https://nueva-presentacion.my.canva.site/material-ui-react](https://nueva-presentacion.my.canva.site/material-ui-react)  
+https://nueva-presentacion.my.canva.site/material-ui-react
 
 ## 📝 PDF para explorar la Web Oficial  
 Una pequeña guía para explorar la web de MUI, que espero os sirva de ayuda como primera toma de contacto. ¡Seguro que la usaréis mucho!  

@@ -63,7 +63,7 @@ export default function App() {
             Miss Material 💥
           </Typography>
           <Typography variant="body2" color="text.secondary">
-            Aprendiendo React con Material UI. Esta tarjeta es parte de la práctica para entender cómo funciona cada componente.
+            Aprendiendo React con Material UI. Esta tarjeta es parte de la práctica de la Píldora Material UI.
           </Typography>
         </CardContent>
 

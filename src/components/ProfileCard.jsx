@@ -2,6 +2,7 @@
 import React, { useState } from 'react';
 
 // Importamos los componentes que vamos a usar desde MUI
+// Están en columna para que se vean mejor, pero se ponen en una línea
 import {
   Card,
   CardContent,

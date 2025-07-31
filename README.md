@@ -17,7 +17,7 @@ Una pequeña guía para explorar la web de MUI, que espero os sirva de ayuda com
 
 ## 📝 PDF para clonar el repositorio  
 Una guía paso a paso para clonar correctamente este repositorio y empezar a trabajar con el proyecto.  
-[Descargar PDF aquí](https://raw.githubusercontent.com/Aday25/mui-card/main/public/clonar-repositorio-git.pdf)  
+[Descargar PDF aquí](https://github.com/Aday25/mui-card/blob/main/public/practica-MUI-Card.pdf)  
 
 ## 🎯 Objetivo del proyecto  
 Crear una tarjeta (Card) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (Snackbar).  
@@ -49,8 +49,6 @@ src/
 -🎨 Uso de ThemeProvider y estilos con sx
 -🧪 Buenas prácticas con Git y GitHub
 
-## 🧙‍♀️ Autora
-Hecho con ❤️ por Aday, futura fullstack developer y superheroína del código.
 
 ## 📌 Notas
 Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.

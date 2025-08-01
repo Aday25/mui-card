@@ -40,6 +40,19 @@ src/
 -🎨 Uso de ThemeProvider y estilos con sx
 -🧪 Buenas prácticas con Git y GitHub
 
+### 🚀 ¿Quieres seguir practicando con Material UI?
+
+Te invito a continuar con una **segunda práctica más completa y guiada** en el siguiente repositorio:  
+🔗 [interactive-cv-mui](https://github.com/Aday25/interactive-cv-mui)
+
+En esta segunda parte podrás aplicar lo aprendido y explorar nuevos componentes, navegación entre páginas, temas personalizados, animaciones, y más.
+
+Además, incluye:
+- 📄 Una [guía paso a paso para clonar el proyecto](https://github.com/Aday25/interactive-cv-mui/blob/main/public/guia-clonar.pdf)  
+- 🧠 Una [guía explicativa del código](https://github.com/Aday25/interactive-cv-mui/blob/main/public/guia-codigo.pdf)
+
+Ideal para seguir aprendiendo.
+
 
 ## 📌 Notas
 Este proyecto se usa como práctica educativa durante el Bootcamp intensivo de Desarrollo Web Fullstack.

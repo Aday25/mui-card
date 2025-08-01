@@ -15,22 +15,13 @@ https://nueva-presentacion.my.canva.site/material-ui-react
 Una pequeña guía para explorar la web de MUI, que espero os sirva de ayuda como primera toma de contacto. ¡Seguro que la usaréis mucho!  
 [Ver PDF](https://github.com/Aday25/mui-card/blob/main/public/pasos-web-mui.pdf)  
 
-## 📝 PDF para clonar el repositorio  
-Una guía paso a paso para clonar correctamente este repositorio y empezar a trabajar con el proyecto.  
+## 📝 PDF para realizar la práctica  
+Una guía paso a paso para crear correctamente este repositorio desde cero.  
 [Ver PDF aquí](https://github.com/Aday25/mui-card/blob/main/public/practica-MUI-Card.pdf)  
 
 ## 🎯 Objetivo del proyecto  
 Crear una tarjeta (Card) que muestre una imagen de perfil, nombre, descripción y un botón que active una notificación (Snackbar).  
 Es una forma sencilla y visual de aprender cómo funcionan los componentes básicos de Material UI.
-
-## 🧪 ¿Cómo probar el proyecto?
-
-
-git clone https://github.com/Aday25/mui-card.git
-cd mui-card
-npm install
-npm run dev
-
 
 ## 💻 Estructura del proyecto
 

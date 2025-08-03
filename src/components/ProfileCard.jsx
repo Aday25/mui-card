@@ -12,6 +12,8 @@ import {
   Snackbar,
   Box
 } from '@mui/material';
+import foto from '../assets/foto-card.png';
+
 
 export default function App() {
   // Estado para mostrar u ocultar el mensaje (snackbar)
@@ -31,30 +33,32 @@ export default function App() {
     // Box es como un div mejorado que permite aplicar estilos con la prop "sx"
     <Box
       sx={{
-        width: '100vw',               // Ancho completo de la ventana del navegador
-        height: '100vh',              // Alto completo de la ventana
-        display: 'flex',              // Activamos Flexbox
-        justifyContent: 'center',     // Centramos horizontalmente
-        alignItems: 'center',         // Centramos verticalmente
-        backgroundColor: '#f0f0f0',   // Fondo gris clarito
-        margin: 0,
-        padding: 0
+        minHeight: '100vh',
+        width: '100%',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#f0f0f0',
+        padding: 2,
+        boxSizing: 'border-box',
       }}
     >
       {/* Tarjeta de perfil con sombra y bordes redondeados */}
       <Card
         sx={{
-          maxWidth: 345,     // Ancho máximo de la tarjeta
-          boxShadow: 6,      // Sombra para dar profundidad
-          borderRadius: 3,   // Bordes redondeados
-          p: 2               // Padding interno
+          width: '90%',
+          maxWidth: 345,
+          boxShadow: 6,
+          borderRadius: 3,
+          p: 2,
         }}
       >
+
         {/* Imagen en la parte superior de la tarjeta */}
         <CardMedia
           component="img"
           height="200"
-          image="/foto-card.png" // La imagen debe estar en la carpeta "public", la podéis cambiar
+          image={fotoCard}
           alt="Foto de perfil"
         />
 

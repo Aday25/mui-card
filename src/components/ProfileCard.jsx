@@ -12,7 +12,7 @@ import {
   Snackbar,
   Box
 } from '@mui/material';
-import foto from '../assets/foto-card.png';
+import fotoCard from '../assets/foto-card.png';
 
 
 export default function App() {
